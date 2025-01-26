@@ -1,2 +1,2 @@
 # TeachProjects
-my works on University and other works
+Some of my works
