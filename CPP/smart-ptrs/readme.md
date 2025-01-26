@@ -1,0 +1,1 @@
+My STL smart pointers implementation
